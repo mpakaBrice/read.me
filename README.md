@@ -22,7 +22,8 @@ Montrer ma progression en tant que Data Analyst débutant
 
 📁 Projets <br><br>
 🏦 Bank Personal Loan Modelling
-Analyse d’un jeu de données bancaire afin de comprendre les facteurs influençant la souscription à un prêt personnel.
+Analyse d’un jeu de données bancaire afin de comprendre les facteurs influençant la souscription à un prêt personnel.  
+
 Étapes principales :  
 
 Exploration et compréhension des données  
