@@ -58,6 +58,7 @@ Seaborn,
 
 📬 Contact  
 
-LinkedIn : www.linkedin.com/in/bricempaka
+LinkedIn : www.linkedin.com/in/bricempaka  
+
 GitHub : ce profil 😉
 
