@@ -54,7 +54,8 @@ Seaborn
 🔄 Reconversion professionnelle
 🚀 Motivé et en apprentissage continu
 
-📬 Contact
-LinkedIn : 
+📬 Contact  
+
+LinkedIn : www.linkedin.com/in/bricempaka
 GitHub : ce profil 😉
 
