@@ -21,7 +21,8 @@ Montrer ma progression en tant que Data Analyst débutant
 
 
 📁 Projets <br><br>
-🏦 Bank Personal Loan Modelling
+🏦 Bank Personal Loan Modelling  
+
 Analyse d’un jeu de données bancaire afin de comprendre les facteurs influençant la souscription à un prêt personnel.  
 
 Étapes principales :  
@@ -45,10 +46,10 @@ Nom : Bank Personal Loan Modelling
 🛠️ Outils 
 Langage : Python
 Librairies :
-Pandas
-NumPy
-Matplotlib
-Seaborn
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
 
 📈 Niveau
 👶 Débutant
