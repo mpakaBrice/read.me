@@ -61,3 +61,4 @@ Seaborn,
 LinkedIn : www.linkedin.com/in/bricempaka  
 
 GitHub : ce profil 😉
+Cv : https://cvdesignr.com/p/b4y5Vrd19ex4oxn
