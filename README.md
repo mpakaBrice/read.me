@@ -22,8 +22,8 @@ Montrer ma progression en tant que Data Analyst débutant
 
 📁 Projets <br><br>
 🏦 Bank Personal Loan Modelling  
-
-Analyse d’un jeu de données bancaire afin de comprendre les facteurs influençant la souscription à un prêt personnel.  
+📚 Analyse des Best-sellers Amazon (2009-2019) : Stratégie Fiction vs Non-Fiction
+ 
 
 Étapes principales :  
 
@@ -37,11 +37,7 @@ Visualisations pour identifier des tendances
 
 Premiers insights business  
 
-Dataset :  
 
-Source : Hugging Face  
-
-Nom : Bank Personal Loan Modelling
 
 🛠️ Outils 
 Langage : Python
