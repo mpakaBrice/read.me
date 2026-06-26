@@ -54,7 +54,7 @@ Seaborn,
 
 📬 Contact  
 
-LinkedIn : www.linkedin.com/in/bricempaka  
+LinkedIn : www.linkedin.com/in/bricempaka <br><br> 
 Portfolio : https://bit.ly/Portfolio-Brice-Mpaka <br><br>
 GitHub : ce profil 😉 <br><br>
 Cv : https://cvdesignr.com/p/b4y5Vrd19ex4oxn
