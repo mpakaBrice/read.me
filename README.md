@@ -56,5 +56,3 @@ Seaborn,
 
 LinkedIn : www.linkedin.com/in/bricempaka <br><br> 
 Portfolio : https://bit.ly/Portfolio-Brice-Mpaka <br><br>
-GitHub : ce profil 😉 <br><br>
-Cv : https://canva.link/pnschgtd1svsl0x
